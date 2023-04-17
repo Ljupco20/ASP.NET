@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLb0I9T/z92YLPY2MnYqOsGBzVIlcBey0cOV4mEx+aVsWR9aGZKR8n8YeGA3xzMfhmIOk99ENxGV1Bksir6Yjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ljupco Trajanovski\\source\\repos\\ASP.NET\\UltimateASPNETCoreWebAPI\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\nlog.extensions.logging\\5.2.3\\nlog.extensions.logging.5.2.3.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
