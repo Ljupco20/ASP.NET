@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oy8xf9EqnhQ3aFcChtZIe5GlBnPUYrQ0eRzbGntEZUnpjfDTDJYagH+59x01fUo8dKNkhBnf88jw0gBA2b0XHA==",
+  "dgSpecHash": "Eb3t3ZXcQR6GAfdC6iT+vmiAh1VU6Y2XsV3taueHuOswLR7TZ0rHFFz3q/3/J8uv7NsiHQ2FskLyihRYgb8q4Q==",
   "success": true,
   "projectFilePath": "C:\\repoL\\ASP.NET\\ProASPNETCore7AdamFreeman\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

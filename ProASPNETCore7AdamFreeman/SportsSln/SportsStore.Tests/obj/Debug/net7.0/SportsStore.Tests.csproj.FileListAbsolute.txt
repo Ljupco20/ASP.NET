@@ -146,3 +146,5 @@ C:\repoL\ASP.NET\ProASPNETCore7AdamFreeman\SportsSln\SportsStore.Tests\obj\Debug
 C:\repoL\ASP.NET\ProASPNETCore7AdamFreeman\SportsSln\SportsStore.Tests\obj\Debug\net7.0\SportsStore.Tests.pdb
 C:\repoL\ASP.NET\ProASPNETCore7AdamFreeman\SportsSln\SportsStore.Tests\obj\Debug\net7.0\SportsStore.Tests.genruntimeconfig.cache
 C:\repoL\ASP.NET\ProASPNETCore7AdamFreeman\SportsSln\SportsStore.Tests\obj\Debug\net7.0\ref\SportsStore.Tests.dll
+C:\repoL\ASP.NET\ProASPNETCore7AdamFreeman\SportsSln\SportsStore.Tests\bin\Debug\net7.0\libman.json
+C:\repoL\ASP.NET\ProASPNETCore7AdamFreeman\SportsSln\SportsStore.Tests\bin\Debug\net7.0\SportsStore.staticwebassets.runtime.json

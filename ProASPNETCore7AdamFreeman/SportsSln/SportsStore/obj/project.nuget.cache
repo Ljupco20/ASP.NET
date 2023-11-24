@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zUGxW855HMVN2FMIJ3m8yy7gQFf1KhwDhrMTtfZVnEdkpU3h0JwMI9oO6MuMdcEqyeEeLxxcLVUzhk2UHpbRhQ==",
+  "dgSpecHash": "fIzT7hRVBjP6jZhlNqUOXohSMm7y7FFg2QfdR8IqO75u64WVWgOASIHCh2X2dwoZM4s6FUXgsE6VOGK3vWUzYw==",
   "success": true,
   "projectFilePath": "C:\\repoL\\ASP.NET\\ProASPNETCore7AdamFreeman\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Ljupco Trajanovski\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
